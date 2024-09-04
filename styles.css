@@ -203,13 +203,13 @@ body {
 /* Responsive Design */
 @media (max-width: 768px) {
     .book-wrapper {
-        width: 80%;
-        height: 70%;
+        width: 90%;
+        height: 60%;
     }
 
     .controls {
         width: 70%;
-        max-width: 350px;
+        max-width: 300px;
     }
 
     .btn-nav {
