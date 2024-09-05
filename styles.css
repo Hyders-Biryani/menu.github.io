@@ -1,6 +1,6 @@
 /* Base styles */
 body {
-    background-color: #141414;
+    background-color: #231f20;
     color: #ffffff;
     margin: 0;
     font-family: 'Poppins', sans-serif;
@@ -117,9 +117,9 @@ body {
 
 .btn-nav {
     width: 120px;
-    background-color: #1f1f1f;
+    background-color: #f4c43c;
     border-color: #444;
-    color: #fff;
+    color: #231f20;
     border-radius: 50px;
     padding: 10px 20px;
     display: flex;
@@ -133,7 +133,8 @@ body {
 }
 
 .btn-nav:hover {
-    background-color: #444;
+    background-color: #231f20;
+    color: #f4c43c;
     border-color: #666;
 }
 
